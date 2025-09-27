@@ -1,0 +1,19 @@
+ Wk 4: Git Bash cmd line, file management, and GitHub (linux cmd)
+ > GUI: 
+ > pwd: print working directory
+ > ls: listing
+ > cd: change directory (can execute multilevel)
+ > clear: clear screen (Ctrl+L)
+ > cd ..: go up one directory level (add /.. to go back additional level)
+ > cd -: go up one directory level
+ > cd ~: return to base directory
+ > cd+tab: auto-complete
+ > mkdir: make directory [new folder]
+ > rmdir: remove directory
+ > touch: make new file
+ > rm: remove files/objects
+ > rm -rf: remove -recursiveforce directory
+ > mv: move ./target file path ./destination file path
+  - . = current location or pwd
+ > rename: mv + new name, no ./destination file path
+ > cp: copy**
